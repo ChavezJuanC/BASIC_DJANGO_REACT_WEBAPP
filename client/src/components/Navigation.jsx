@@ -8,7 +8,7 @@ export const Navigation = () => {
         to="/tasks"
         className="inline-block text-slate-100 font-extrabold text-2xl m-2 ml-6"
       >
-        MYTASK
+        MYTASKS
       </Link>
 
       {/* THE NEW TASK BUTTON CHANGES FROM A ICON TO TEXT ON RESIZE */}
